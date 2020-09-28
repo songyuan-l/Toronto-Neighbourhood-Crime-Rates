@@ -78,11 +78,13 @@ glimpse(data)
 
 # 4.introiduction
 
-
+Are you planning to come to Toronto? The living environment is very important. The crime rate in the neighborhood is always a significant concern about choosing a new home. Therefore, it's very important to know the crime rate in Toronto.
 This dataset is about the crime rate from 2014 to 2019 by Neighborhood in Toronto., and the dataset is refreshed annually. It counts six major crimes including Assault, Auto Theft, Break and Enter, Robbery, Theft Over, and Homicide.  
-In this case, we investigate mainly on the average assault incidents from 2014 to 2019 by neighborhood.Also, we will study the relationship between the populations and average assault incidents.
-To visualize this statistic study, we will use scatterplot, histogram, boxplot, and barplot to shoe our finding directly.
+In this case, we investigate mainly on the average assault incidents from 2014 to 2019 by neighborhood. Also, we will study the relationship between the populations and average assault incidents. The neighborhood with more population should have more assault incidents happened. To visualize this statistic study, we will use scatterplot r to show our findings directly.
+Then we use histogram, boxplot, and barplot to show the frequency of assault incidents taking place in those neighborhoods. In most neighborhoods, the average assault incidents are lower than250 cases.
+In general , Toronto is a safe place to live. Newcomers just need to be careful in those outlier neighborhoods with extreme high assault incidents.
 
+To implement all these polts,
 we use @citetidyverse.
 
 # 5.Including Plots
