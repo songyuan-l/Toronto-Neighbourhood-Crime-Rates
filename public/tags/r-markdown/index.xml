@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown on songyuan&#39;s amazing website</title>
+    <link>/tags/r-markdown/</link>
+    <description>Recent content in R Markdown on songyuan&#39;s amazing website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Sep 2020 20:18:14 -0500</lastBuildDate><atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Assault Incidents In Each Neighbourhood  Of Toronto, Canada from 2014 to 2019</title>
+      <link>/2020/09/24/assault-incidents-in-each-neighbourhood-of-toronto-canada-from-2014-to-2019/</link>
+      <pubDate>Thu, 24 Sep 2020 20:18:14 -0500</pubDate>
+      
+      <guid>/2020/09/24/assault-incidents-in-each-neighbourhood-of-toronto-canada-from-2014-to-2019/</guid>
+      <description>1.Abstract This dataset is about the crime rate from 2014 to 2019 by Neighborhood in Toronto. It counts six major crimes including Assault, Auto Theft, Break and Enter, Robbery, Theft Over, and Homicide. In this dataset, we investigate five years of crime rate for each crime type by Neighborhood. Also, this dataset contains the average crime rate amount of five years and crime rates per 100,000 people by neighborhood based on the 2016 Census Population.</description>
+    </item>
+    
+  </channel>
+</rss>
